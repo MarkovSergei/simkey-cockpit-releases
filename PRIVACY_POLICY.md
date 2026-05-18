@@ -1,34 +1,64 @@
-# Политика конфиденциальности SimKey Cockpit
+# Политика конфиденциальности / Privacy Policy / 隐私政策
 
-**Последнее обновление: 17 мая 2026 г.**
+**SimKey Cockpit**
+**Последнее обновление / Last updated / 最后更新: 18 мая 2026 г.**
 
-## 1. Какие данные мы собираем
+---
 
-Для работы приложения SimKey Cockpit мы можем запросить ваш адрес электронной почты (email). Это необходимо для:
-- Создания и защиты вашей лицензии.
-- Отправки вам одноразового кода подтверждения для входа.
-- Оказания технической поддержки, если вы к нам обратитесь.
+## Русский
 
-Мы **не собираем** никакие другие персональные данные (имя, фамилию, телефон, данные банковских карт). Платёжные данные обрабатываются исключительно нашим партнёром ЮKassa, и мы не имеем к ним доступа.
+### 1. Какие данные мы собираем
+Для работы приложения мы можем запросить ваш email. Это необходимо для создания и защиты вашей лицензии, отправки кода подтверждения и оказания технической поддержки. Мы не собираем другие персональные данные. Платёжные данные обрабатываются партнёром ЮKassa.
 
-## 2. Как мы используем ваши данные
+### 2. Как мы используем данные
+Ваш email используется только для целей, указанных в п.1. Мы не передаём его третьим лицам.
 
-Ваш email используется исключительно для целей, указанных в пункте 1. Мы не передаём его третьим лицам, не используем для маркетинговых рассылок и не храним его дольше, чем это необходимо для работы приложения.
+### 3. Хранение данных
+Email хранится в защищённой базе Firebase (Google Cloud).
 
-## 3. Хранение данных
+### 4. Ваши права
+Вы можете запросить удаление данных через контакты ниже.
 
-Ваш email в обезличенном виде (как часть уникального идентификатора) хранится в защищённой базе данных Firebase (Google Cloud). Мы принимаем все разумные меры для защиты ваших данных от несанкционированного доступа.
+### 5. Контакты
+Email: dzey1@bk.ru
+Telegram: http://t.me/simKeyCockpit
 
-## 4. Ваши права
+---
 
-Вы имеете право:
-- Запросить информацию о том, какие данные мы храним.
-- Потребовать удаления ваших данных.
+## English
 
-Для этого обратитесь к нам по контактам, указанным ниже.
+### 1. What data we collect
+We may ask for your email address to provide our services. This is necessary to create and protect your license, send a verification code, and provide technical support. We do not collect any other personal data. Payment data is processed by our partner YooKassa.
 
-## 5. Контакты
+### 2. How we use your data
+Your email is used solely for the purposes stated above. We do not share it with third parties.
 
-- **Email:** dzey1@bk.ru
-- **Telegram:** [http://t.me/simKeyCockpit](http://t.me/simKeyCockpit)
-- **GitHub:** [https://github.com/MarkovSergei/simkey-cockpit-releases](https://github.com/MarkovSergei/simkey-cockpit-releases)
+### 3. Data storage
+Your email is stored in a secure Firebase database (Google Cloud).
+
+### 4. Your rights
+You can request deletion of your data by contacting us.
+
+### 5. Contacts
+Email: dzey1@bk.ru
+Telegram: http://t.me/simKeyCockpit
+
+---
+
+## 中文 (Chinese)
+
+### 1. 我们收集哪些数据
+我们可能会要求您提供电子邮件地址以提供服务。这对于创建和保护您的许可证、发送验证码以及提供技术支持是必要的。我们不会收集任何其他个人数据。支付数据由我们的合作伙伴YooKassa处理。
+
+### 2. 我们如何使用您的数据
+您的电子邮件仅用于上述目的。我们不会将其分享给第三方。
+
+### 3. 数据存储
+您的电子邮件存储在安全的Firebase数据库（Google Cloud）中。
+
+### 4. 您的权利
+您可以通过以下联系方式请求删除您的数据。
+
+### 5. 联系方式
+电子邮件: dzey1@bk.ru
+Telegram: http://t.me/simKeyCockpit
